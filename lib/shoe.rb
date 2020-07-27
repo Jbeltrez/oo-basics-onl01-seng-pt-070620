@@ -4,4 +4,6 @@ class Shoe
   end 
   
   attr_reader :brand
+  
+  attr_accessor :color
 end 
